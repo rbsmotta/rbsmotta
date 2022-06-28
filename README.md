@@ -4,6 +4,8 @@ _Engenheiro de Dados e estudante de Ciências da Computação._
 [![Site](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robsonjmotta/)
 [![Site](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rbsmotta@gmail.com)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbsmotta)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 ### Meus projetos:
 
