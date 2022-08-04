@@ -19,7 +19,7 @@ _Engenheiro de Dados e estudante de Ciências da Computação._
 
 - [Web scraping](https://github.com/rbsmotta/web-scraping): _Projeto de web scraping extraindo informações metereológicas da página do CPTEC-Impe_
 
-- [Dados da Covid-19 no Brasil](https://github.com/rbsmotta/dados-covid-brasil): _Projeto de aplicação online com dados referentes ao COVID-19 no Brasil_
+- [Dados da Covid-19 no Brasil](https://github.com/rbsmotta/dados-covid-brasil): _Projeto de aplicação on-line com dados referentes ao COVID-19 no Brasil_
 ---
 ### Meus estudos:
 
