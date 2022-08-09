@@ -21,7 +21,7 @@ _Engenheiro de Dados e estudante de Ciências da Computação._
 
 - [Dados da Covid-19 no Brasil](https://github.com/rbsmotta/dados-covid-brasil): _Projeto de aplicação on-line com dados referentes ao COVID-19 no Brasil_
 
-- [Bike Manufacturing Company](https://github.com/rbsmotta/bike-manufacturing-company/blob/main/readme.md): _Projeto de extração, carregamento e tratamento de dados, utilizando armazenamento em camadas de processamento.
+- [Bike Manufacturing Company](https://github.com/rbsmotta/bike-manufacturing-company/blob/main/readme.md): _Projeto de extração, carregamento e tratamento de dados, utilizando armazenamento em camadas de processamento_
 ---
 ### Meus estudos:
 
